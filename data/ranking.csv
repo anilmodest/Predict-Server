@@ -1,0 +1,507 @@
+ticker,company,sector,peRatio,fwdPERatio,epsAndDivident,roa,roe,debtEq,marketCapBillions,weightedFactors,stockRank,Beta,riskProfileBeta
+A,Agilent Technologies Inc.,Healthcare,0.781,0.837,0.176,0.682,0.48,0.311,0.511,0.55300,102,1.28,Moderate
+AA,Alcoa Corporation,Basic Materials,0.742,0.257,0.734,0.055,0.063,0.194,0.132,0.33170,323,0,Conservative
+AAL,American Airlines Group Inc.,Services,0.134,0.065,0.751,0.404,0.936,0.968,0.545,0.52420,127,0.99,Moderate
+AAP,Advance Auto Parts Inc.,Services,0.281,0.234,0.037,0.422,0.418,0.238,0.067,0.26320,404,0.94,Moderate
+AAPL,Apple Inc.,Consumer Goods,0.384,0.347,0.275,0.882,0.843,0.541,1,0.70895,16,1.2,Moderate
+ABBV,AbbVie Inc.,Healthcare,0.505,0.267,0.442,0.759,0.98,0.964,0.93,0.71375,15,1.53,Aggressive
+ABC,AmerisourceBergen Corporation,Services,0.373,0.174,0.13,0.269,0.851,0.781,0.42,0.38650,262,0.96,Moderate
+ABT,Abbott Laboratories,Healthcare,0.867,0.587,0.765,0.281,0.174,0.49,0.9,0.57115,91,1.57,Aggressive
+ACN,Accenture plc,Technology,0.64,0.615,0.42,0.952,0.906,0,0.884,0.85330,3,1.05,Moderate
+ADBE,Adobe Systems Incorporated,Technology,0.918,0.904,0.855,0.849,0.63,0.186,0.876,0.88095,1,1.04,Moderate
+ADI,Analog Devices Inc.,Technology,0.871,0.543,0.551,0.373,0.232,0,0.664,0.56845,90,1.31,Moderate
+ADM,Archer0Daniels0Midland Company,Consumer Goods,0.293,0.259,0.585,0.365,0.246,0.281,0.525,0.40525,234,1.12,Moderate
+ADP,Automatic Data Processing Inc.,Technology,0.692,0.835,0.468,0.426,0.88,0.345,0.777,0.67940,20,0.89,Moderate
+ADS,Alliance Data Systems Corporation,Services,0.561,0.085,0.428,0.216,0.763,0.994,0.269,0.39695,245,1.79,Aggressive
+ADSK,Autodesk Inc.,Technology,0,0.988,0.835,0.865,0.968,0.956,0.617,0.65305,30,1.96,Aggressive
+AEE,Ameren Corporation,Utilities,0.478,0.64,0.378,0.305,0.301,0.706,0.363,0.32470,315,0.4,Conservative
+AEP,American Electric Power Company Inc.,Utilities,0.934,0.559,0.791,0.166,0.126,0.716,0.696,0.48560,155,0.29,Conservative
+AES,The AES Corporation,Utilities,1,0.047,0.882,0.234,0.74,0.974,0.085,0.53950,103,1.24,Moderate
+AET,Aetna Inc.,Healthcare,0.813,0.464,0.134,0.269,0.291,0.396,0.823,0.45440,176,0.59,Conservative
+AFL,Aflac Incorporated,Financial,0.138,0.168,0.289,0.216,0.38,0.194,0.656,0.34620,291,0.99,Moderate
+AGN,Allergan plc,Healthcare,0,0.083,0.779,0.732,0.517,0.299,0.811,0.60035,59,1.14,Moderate
+AIG,American International Group Inc.,Financial,0,0.14,0.916,0.055,0.061,0.299,0.807,0.34370,293,1.23,Moderate
+AIV,Apartment Investment and Management Company,Financial,0.982,0.976,0.759,0.589,0.75,0.914,0.083,0.60815,52,0.47,Conservative
+AIZ,Assurant Inc.,Financial,0.162,0.271,0.976,0.192,0.341,0.208,0.047,0.34945,286,0.8,Moderate
+AKAM,Akamai Technologies Inc.,Technology,0.732,0.626,0.001,0.644,0.319,0.172,0.14,0.39815,237,0.66,Conservative
+ALB,Albemarle Corporation,Basic Materials,0.894,0.863,0.692,0.809,0.722,0.323,0.373,0.74225,9,1.72,Aggressive
+ALGN,Align Technology Inc.,Healthcare,0.952,0.956,0.599,0.904,0.652,0,0.458,0.79080,5,1.37,Moderate
+ALK,Alaska Air Group Inc.,Services,0.115,0.067,0.011,0.644,0.718,0.553,0.113,0.33300,296,1.03,Moderate
+ALL,The Allstate Corporation,Financial,0.192,0.255,0.208,0.246,0.432,0.234,0.684,0.36290,264,1.09,Moderate
+ALLE,Allegion plc,Services,0.527,0.583,0.71,0.896,0.984,0.936,0.111,0.64600,31,1.11,Moderate
+ALXN,Alexion Pharmaceuticals Inc.,Healthcare,0.896,0.41,0.922,0.386,0.168,0.257,0.599,0.59620,58,1.27,Moderate
+AMAT,Applied Materials Inc.,Technology,0.404,0.351,0.65,0.948,0.867,0.406,0.817,0.78735,5,1.83,Aggressive
+AME,AMETEK Inc.,Industrial Goods,0.698,0.773,0.261,0.644,0.507,0.438,0.38,0.51175,122,1.33,Moderate
+AMG,Affiliated Managers Group Inc.,Financial,0.42,0.121,0.154,0.563,0.494,0.382,0.188,0.37845,251,1.71,Aggressive
+AMGN,Amgen Inc.,Healthcare,0.246,0.244,0.376,0.797,0.748,0.68,0.922,0.62705,40,1.39,Moderate
+AMP,Ameriprise Financial Inc.,Financial,0.212,0.17,0.224,0.14,0.648,0.892,0.551,0.30520,319,1.9,Aggressive
+AMT,American Tower Corporation,Financial,,0.922,0.68,0.355,0.523,0.91,0.825,0.42950,193,0.75,Conservative
+AMZN,Amazon.com Inc.,Services,,0.992,0.966,0.253,0.289,0,0.99,0.52670,107,1.43,Moderate
+ANDV,Andeavor,Basic Materials,,0.25,0.732,0.21,0.154,0.553,0.422,0.26650,363,1.55,Aggressive
+ANSS,Ansys Inc.,Technology,,0.912,0.178,0.771,0.41,0,0.273,0.38545,240,1.04,Moderate
+ANTM,Anthem Inc.,Healthcare,,0.402,0.027,0.422,0.375,0.412,0.805,0.32445,293,0.77,Moderate
+AON,Aon plc,Financial,,0.45,0.14,0.63,0.833,0.676,0.698,0.46575,154,1.06,Moderate
+AOS,A. O. Smith Corporation,Industrial Goods,,0.801,0.422,0.843,0.66,0.186,0.182,0.47795,151,1.53,Aggressive
+APA,Apache Corporation,Basic Materials,,0.986,0.867,0,0.057,0.72,0.394,0.19445,417,1.08,Moderate
+APC,Anadarko Petroleum Corporation,Basic Materials,,0,0.75,0.438,0.555,0.753,0.613,0.44555,173,1.41,Moderate
+APD,Air Products and Chemicals Inc.,Basic Materials,,0.66,0.557,0.946,0.863,0.291,0.67,0.66855,21,1.25,Moderate
+APH,Amphenol Corporation,Technology,,0.813,0.206,0.793,0.702,0.565,0.605,0.47945,149,0.8,Moderate
+ATVI,Activision Blizzard Inc.,Technology,,0.811,0.158,0.579,0.4,0,0.765,0.42935,189,1.05,Moderate
+AVB,AvalonBay Communities Inc.,Financial,,0.92,0.656,0.513,0.301,0.448,0.565,0.40290,213,0.38,Conservative
+AVGO,Broadcom Limited,Technology,,0.347,0.942,0.166,0.105,0.452,0.914,0.39375,222,1.02,Moderate
+AVY,Avery Dennison Corporation,Consumer Goods,,0.609,0.486,0.644,0.835,0.803,0.158,0.41825,197,1.23,Moderate
+AWK,American Water Works Company Inc.,Utilities,,0.849,0.025,0.281,0.279,0.765,0.39,0.14650,433,0.26,Conservative
+AXP,American Express Company,Financial,,0.323,0.319,0.305,0.672,0.958,0.867,0.38565,230,1.22,Moderate
+AYI,Acuity Brands Inc.,Technology,,0.42,0.299,0.815,0.593,0.178,0.079,0.40980,206,1.44,Moderate
+AZO,AutoZone Inc.,Services,,0.144,0.18,0.886,0.958,0,0.418,0.58060,70,0.66,Conservative
+BA,The Boeing Company,Industrial Goods,,0.765,0.067,0.654,0,0.984,0.938,0.26610,349,1.22,Moderate
+BAC,Bank of America Corporation,Financial,,0.2,0.394,0.113,0.218,0.831,0.98,0.27445,341,1.31,Moderate
+BAX,Baxter International Inc.,Healthcare,,0.771,0.515,0.837,0.65,0.269,0.672,0.58225,68,0.7,Conservative
+BBT,BB&T Corporation,Financial,,0.291,0.269,0.14,0.232,0.519,0.73,0.24090,364,0.99,Moderate
+BBY,Best Buy Co. Inc.,Services,,0.232,0.781,0.722,0.753,0.228,0.426,0.58735,64,1.43,Moderate
+BCR,C. R. Bard Inc.,Healthcare,,0.827,0.968,0.799,0.813,0.527,0.553,0.65450,25,0.53,Conservative
+BDX,Becton Dickinson and Company,Healthcare,,0.682,0.625,0.291,0.265,0.787,0.785,0.34230,264,1.05,Moderate
+BEN,Franklin Resources Inc.,Financial,,0.273,0.081,0.799,0.482,0.152,0.555,0.43225,181,1.77,Aggressive
+BF0B,Brown0Forman Corporation,Consumer Goods,,0.843,0.628,0.9,0.922,0.799,0.503,0.60180,50,0.95,Moderate
+BHF,Brighthouse Financial Inc.,Financial,,0.019,0.978,0,0,0.168,0.081,0.19500,397,0,Conservative
+BHGE,Baker Hughes a GE company,Basic Materials,,0.867,0.682,0.305,0.13,0.194,0.666,0.35895,244,0.81,Moderate
+BIIB,Biogen Inc.,Healthcare,,0.222,0.24,0.916,0.777,0.355,0.843,0.60435,47,0.71,Conservative
+BK,The Bank of New York Mellon Corporation,Financial,,0.216,0.43,0.14,0.293,0.49,0.797,0.30465,297,1.22,Moderate
+BLK,BlackRock Inc.,Financial,,0.545,0.117,0.192,0.38,0.164,0.857,0.32140,279,1.82,Aggressive
+BLL,Ball Corporation,Consumer Goods,,0.452,0.45,0.18,0.178,0.861,0.349,0.16320,410,0.99,Moderate
+BMY,Bristol0Myers Squibb Company,Healthcare,,0.569,0.938,0.861,0.767,0.388,0.91,0.73780,7,1.18,Moderate
+BRK0B,Berkshire Hathaway Inc.,Financial,,0.736,0.15,0,0,0,0.988,0.22760,369,0,Conservative
+BSX,Boston Scientific Corporation,Healthcare,,0.603,0.958,0.253,0.186,0.527,0.716,0.39185,212,1.02,Moderate
+BWA,BorgWarner Inc.,Consumer Goods,,0.208,0.841,0.341,0.259,0.412,0.222,0.32140,277,1.75,Aggressive
+BXP,Boston Properties Inc.,Financial,,0.928,0.355,0.253,0.251,0.823,0.444,0.20350,383,0.65,Conservative
+C,Citigroup Inc.,Financial,,0.178,0.347,0.113,0.194,0.623,0.958,0.27545,326,1.57,Aggressive
+CA,CA Inc.,Technology,,0.196,0.144,0.537,0.418,0.325,0.323,0.29965,300,0.74,Conservative
+CAG,Conagra Brands Inc.,Consumer Goods,,0.416,0.98,0.521,0.488,0.559,0.339,0.46015,150,0.31,Conservative
+CAH,Cardinal Health Inc.,Services,,0.111,0.222,0.373,0.609,0.791,0.476,0.30600,289,0.91,Moderate
+CAT,Caterpillar Inc.,Industrial Goods,,0.476,0.888,0.059,0.079,0.896,0.863,0.29510,304,1.28,Moderate
+CBG,CBRE Group Inc.,Financial,,0.321,0.049,0.595,0.66,0.644,0.321,0.32335,272,1.84,Aggressive
+CBOE,Cboe Global Markets Inc.,Financial,,0.873,0.188,0.529,0.365,0.345,0.289,0.28440,314,0.49,Conservative
+CBS,CBS Corporation,Services,,0.103,0.24,0.099,0.142,0.924,0.527,0.12125,410,1.64,Aggressive
+CCE,Coca0Cola European Partners plc,Consumer Goods,,0.301,0.642,0.404,0.394,0.615,0.456,0.35760,244,0.96,Moderate
+CCI,Crown Castle International Corp.,Technology,,0.984,0.648,0.214,0.16,0.823,0.748,0.29040,304,0.22,Conservative
+CCL,Carnival Corporation,Services,,0.335,0.789,0.605,0.38,0.269,0.767,0.53055,94,0.74,Conservative
+CDNS,Cadence Design Systems Inc.,Technology,,0.878,0.331,0.809,0.761,0.448,0.259,0.46570,143,0.92,Moderate
+CELG,Celgene Corporation,Healthcare,,0.134,0.561,0.875,0.904,0.777,0.859,0.65105,25,1.84,Aggressive
+CERN,Cerner Corporation,Technology,,0.791,0.47,0.821,0.519,0.152,0.549,0.52360,99,0.96,Moderate
+CF,CF Industries Holdings Inc.,Basic Materials,,0.994,0.912,0.253,0.361,0.813,0.138,0.28220,309,1.15,Moderate
+CFG,Citizens Financial Group Inc.,Financial,,0.251,0.567,0.113,0.168,0.436,0.462,0.23245,347,0,Conservative
+CHD,Church & Dwight Co. Inc.,Consumer Goods,,0.65,0.375,0.777,0.674,0.541,0.21,0.42565,179,0.54,Conservative
+CHK,Chesapeake Energy Corporation,Basic Materials,,0.011,0.803,0.873,0.908,0,0.019,0.60965,42,2.19,Aggressive
+CHRW,C.H. Robinson Worldwide Inc.,Services,,0.69,0.073,0.865,0.857,0.664,0.218,0.42230,179,0.46,Conservative
+CHTR,Charter Communications Inc.,Services,,0.944,0.994,0.075,0.095,0.855,0.894,0.33460,252,1.1,Moderate
+CI,Cigna Corporation,Healthcare,,0.498,0.248,0.38,0.521,0.238,0.781,0.40725,191,0.48,Conservative
+CINF,Cincinnati Financial Corporation,Financial,,0.769,0.226,0.253,0.21,0.148,0.279,0.20195,363,0.96,Moderate
+CL,Colgate0Palmolive Company,Consumer Goods,,0.718,0.843,0.952,0,0,0.833,0.57320,65,0.8,Moderate
+CLX,The Clorox Company,Consumer Goods,,0.672,0.273,0.908,0.986,0.942,0.406,0.51510,103,0.39,Conservative
+CMA,Comerica Incorporated,Financial,,0.327,0.164,0.113,0.232,0.422,0.335,0.14385,387,1.51,Aggressive
+CMCSA,Comcast Corporation,Services,,0.378,0.283,0.511,0.571,0.708,0.944,0.44510,156,1.03,Moderate
+CME,CME Group Inc.,Financial,,0.833,0.521,0.242,0.228,0.148,0.769,0.36070,226,0.71,Conservative
+CMG,Chipotle Mexican Grill Inc.,Services,,0.875,0.875,0.636,0.343,0,0.113,0.44235,157,0.46,Conservative
+CMI,Cummins Inc.,Industrial Goods,,0.357,0.162,0.761,0.64,0.194,0.628,0.48885,128,1.15,Moderate
+CMS,CMS Energy Corporation,Utilities,,0.642,0.156,0.269,0.41,0.878,0.319,0.17695,371,0.17,Conservative
+CNC,Centene Corporation,Healthcare,,0.46,0.424,0.392,0.46,0.46,0.402,0.33220,249,0.67,Conservative
+CNP,CenterPoint Energy Inc.,Utilities,,0.648,0.928,0.305,0.555,0.896,0.281,0.36720,218,0.64,Conservative
+COF,Capital One Financial Corporation,Financial,,0.089,0.021,0.126,0.204,0.609,0.751,0.17600,369,1.29,Moderate
+COG,Cabot Oil & Gas Corporation,Basic Materials,,0.894,0.954,0.462,0.297,0,0.301,0.44075,158,0.5,Conservative
+COH,Coach Inc.,Consumer Goods,,0.325,0.579,0.849,0.636,0.367,0.224,0.49515,122,0.47,Conservative
+COL,Rockwell Collins Inc.,Industrial Goods,,0.48,0.146,0.605,0.692,0.765,0.517,0.38035,210,0.71,Conservative
+COO,The Cooper Companies Inc.,Healthcare,,0.67,0.621,0.654,0.392,0.277,0.22,0.40200,187,0.55,Conservative
+COP,ConocoPhillips,Basic Materials,,0.918,0.476,0.216,0.14,0.5,0.837,0.30160,272,1.21,Moderate
+COST,Costco Wholesale Corporation,Services,,0.761,0.371,0.654,0.702,0.408,0.851,0.54260,83,0.94,Moderate
+CPB,Campbell Soup Company,Consumer Goods,,0.307,0.771,0.831,0.934,0.871,0.329,0.57415,64,0.38,Conservative
+CRM,Salesforce.com inc.,Technology,,0.96,0.986,0.075,0.079,0.228,0.853,0.38350,202,1.23,Moderate
+CSCO,Cisco Systems Inc.,Technology,,0.24,0.315,0.67,0.492,0.355,0.948,0.50760,106,1.16,Moderate
+CSRA,CSRA Inc.,Technology,,0.329,0.962,0.589,0.976,0.98,0.041,0.49385,119,0,Conservative
+CSX,CSX Corporation,Services,,0.555,0.269,0.478,0.513,0.672,0.763,0.38695,197,1.35,Moderate
+CTAS,Cintas Corporation,Services,,0.789,0.083,0.777,0.72,0.68,0.388,0.40045,184,0.85,Moderate
+CTL,CenturyLink Inc.,Technology,,0.051,0.662,0.113,0.107,0.833,0.156,0.13530,370,0.87,Moderate
+CTSH,Cognizant Technology Solutions Corporation,Technology,,0.44,0.071,0.878,0.569,0.144,0.75,0.51155,104,1.1,Moderate
+CTXS,Citrix Systems Inc.,Technology,,0.488,0.805,0.702,0.68,0.476,0.285,0.51590,98,1.39,Moderate
+CVS,CVS Health Corporation,Healthcare,,0.097,0.184,0.521,0.494,0.505,0.855,0.41105,175,0.89,Moderate
+CVX,Chevron Corporation,Basic Materials,,0.74,0.89,0.246,0.126,0.218,0.972,0.44360,148,1.23,Moderate
+CXO,Concho Resources Inc.,Basic Materials,,0.97,0.88,0.462,0.232,0,0.484,0.44630,147,1.1,Moderate
+D,Dominion Energy Inc.,Utilities,,0.611,0.277,0.323,0.482,0.884,0.787,0.32565,234,0.27,Conservative
+DAL,Delta Air Lines Inc.,Services,,0.057,0.099,0.623,0.757,0.412,0.692,0.46200,134,1.28,Moderate
+DE,Deere & Company,Industrial Goods,,0.549,0.432,0.331,0.728,0.944,0.746,0.40595,175,0.75,Conservative
+DFS,Discover Financial Services,Financial,,0.075,0.349,0.269,0.654,0.884,0.571,0.32635,230,1.5,Moderate
+DG,Dollar General Corporation,Services,,0.406,0.327,0.793,0.674,0.373,0.529,0.50065,111,0.94,Moderate
+DGX,Quest Diagnostics Incorporated,Healthcare,,0.388,0.204,0.595,0.472,0.511,0.287,0.31385,241,0.59,Conservative
+DHI,D.R. Horton Inc.,Industrial Goods,,0.265,0.414,0.718,0.47,0.277,0.398,0.43170,155,1.27,Moderate
+DHR,Danaher Corporation,Industrial Goods,,0.68,0.527,0.496,0.301,0.299,0.835,0.44175,146,1.02,Moderate
+DIS,The Walt Disney Company,Services,,0.341,0.432,0.771,0.638,0.359,0.932,0.58915,55,1.38,Moderate
+DISCA,Discovery Communications Inc.,Services,,0.021,0.517,0.446,0.462,0.785,0.063,0.26450,284,1.58,Aggressive
+DISCK,Discovery Communications Inc.,Services,,0.015,0.335,0,0,0,0,0.06700,364,0,Conservative
+DISH,DISH Network Corporation,Services,,0.63,0.869,0.38,0.666,0.916,0.539,0.45150,138,1.1,Moderate
+DLPH,Delphi Automotive PLC,Consumer Goods,,0.236,0.17,0,0,0.769,0.589,0.07490,362,1.36,Moderate
+DLR,Digital Realty Trust Inc.,Financial,,0.966,0.688,0.315,0.273,0.793,0.567,0.31870,233,0.06,Conservative
+DLTR,Dollar Tree Inc.,Services,,0.519,0.944,0.537,0.551,0.636,0.519,0.50100,108,0.58,Conservative
+DNB,The Dun & Bradstreet Corporation,Technology,,0.343,0.726,0.478,0.365,0,0.031,0.36215,196,1.27,Moderate
+DO,Diamond Offshore Drilling Inc.,Basic Materials,,0.978,0.63,0.291,0.138,0.359,0.011,0.19955,326,1.27,Moderate
+DOV,Dover Corporation,Industrial Goods,,0.668,0.367,0.595,0.547,0.527,0.361,0.37840,189,1.27,Moderate
+DPS,Dr Pepper Snapple Group Inc.,Consumer Goods,,0.488,0.404,0.644,0.837,0.863,0.376,0.43995,143,0.6,Conservative
+DRE,Duke Realty Corporation,Financial,,0.974,0.785,0.458,0.279,0.345,0.178,0.34235,213,0.92,Moderate
+DRI,Darden Restaurants Inc.,Services,,0.43,0.668,0.777,0.722,0,0.184,0.54515,79,0.2,Conservative
+DTE,DTE Energy Company,Utilities,,0.579,0.501,0.323,0.357,0.751,0.468,0.28870,256,0.25,Conservative
+DUK,Duke Energy Corporation,Utilities,,0.525,0.132,0.216,0.168,0.73,0.829,0.21520,308,0.26,Conservative
+DVA,DaVita Inc.,Healthcare,,0.365,0.96,0.611,0.75,0.819,0.226,0.49555,112,0.98,Moderate
+DVN,Devon Energy Corporation,Basic Materials,,0.541,0.847,0.722,0.849,0,0.472,0.65655,23,2.23,Aggressive
+DWDP,DowDuPont Inc.,Basic Materials,,0.468,0.017,0,0,0,0.946,0.19260,320,0,Conservative
+EA,Electronic Arts Inc.,Technology,,0.73,0.295,0.92,0.793,0,0.674,0.62205,36,0.64,Conservative
+EBAY,eBay Inc.,Services,,0.432,0.97,0.998,0.946,0.571,0.724,0.76770,5,1.37,Moderate
+ECL,Ecolab Inc.,Consumer Goods,,0.793,0.531,0.611,0.585,0.68,0.714,0.48000,119,1.05,Moderate
+ED,Consolidated Edison Inc.,Utilities,,0.632,0.087,0.281,0.273,0.69,0.607,0.20830,311,0.1,Conservative
+EFX,Equifax Inc.,Financial,,0.474,0.365,0.708,0.621,0.601,0.295,0.40415,162,0.94,Moderate
+EIX,Edison International,Utilities,,0.535,0.615,0.291,0.388,0.66,0.591,0.34495,204,0.26,Conservative
+EL,The Estee Lauder Companies Inc.,Consumer Goods,,0.857,0.345,0.831,0.809,0.527,0.757,0.57770,59,0.67,Conservative
+EMN,Eastman Chemical Company,Basic Materials,,0.115,0.053,0.513,0.593,0.773,0.309,0.27160,260,1.32,Moderate
+EMR,Emerson Electric Co.,Industrial Goods,,0.702,0.64,0,0,0.43,0.732,0.23140,291,1.24,Moderate
+EOG,EOG Resources Inc.,Basic Materials,,0.964,0.827,0.14,0.095,0.345,0.813,0.35225,198,0.98,Moderate
+EQIX,Equinix Inc.,Technology,,0.968,0.718,0.18,0.125,0.771,0.71,0.28475,249,0.41,Conservative
+EQR,Equity Residential,Financial,,0.94,0.984,0.396,0.259,0.559,0.561,0.41685,152,0.41,Conservative
+EQT,EQT Corporation,Basic Materials,,0.902,0.99,0.059,0.071,0.382,0.204,0.23310,285,0.8,Moderate
+ES,Eversource Energy,Utilities,,0.563,0.238,0.331,0.287,0.65,0.474,0.23190,285,0.31,Conservative
+ESRX,Express Scripts Holding Company,Healthcare,,0.039,0.72,0.63,0.69,0.601,0.668,0.54750,72,0.87,Moderate
+ESS,Essex Property Trust Inc.,Financial,,0.952,0.851,0.396,0.251,0.579,0.404,0.35485,193,0.56,Conservative
+ETFC,E*TRADE Financial Corporation,Financial,,0.438,0.894,0.14,0.273,0.968,0.253,0.23585,278,1.44,Moderate
+ETN,Eaton Corporation plc,Industrial Goods,,0.339,0.041,0.579,0.43,0.378,0.678,0.35825,189,1.37,Moderate
+ETR,Entergy Corporation,Utilities,,0.456,0.956,0.21,0.265,0.837,0.378,0.30185,229,0.55,Conservative
+EW,Edwards Lifesciences Corporation,Healthcare,,0.797,0.386,0.882,0.708,0.251,0.513,0.55220,69,0.48,Conservative
+EXC,Exelon Corporation,Utilities,,0.275,0.746,0.192,0.194,0.742,0.72,0.31550,214,0.31,Conservative
+EXPD,Expeditors International of Washington Inc.,Services,,0.732,0.035,0.892,0.666,0,0.19,0.43450,139,0.67,Conservative
+EXPE,Expedia Inc.,Services,,0.664,0.795,0.216,0.226,0.49,0.519,0.32430,207,0.95,Moderate
+EXR,Extra Space Storage Inc.,Financial,,0.876,0.863,0.503,0.539,0.835,0.192,0.38800,168,0.41,Conservative
+F,Ford Motor Company,Consumer Goods,,0.041,0.678,0.216,0.468,0.95,0.779,0.36740,178,1.27,Moderate
+FAST,Fastenal Company,Services,,0.724,0.089,0.962,0.755,0.18,0.333,0.49565,105,1.05,Moderate
+FB,Facebook Inc.,Technology,,0.859,0.93,0.97,0.684,0,0.992,0.79790,4,0.68,Conservative
+FBHS,Fortune Brands Home & Security Inc.,Consumer Goods,,0.539,0.666,0.702,0.565,0,0.174,0.48475,110,1.41,Moderate
+FCX,Freeport0McMoRan Inc.,Basic Materials,,0.053,0.817,0.099,0.134,0.882,0.486,0.23065,272,2.58,Aggressive
+FDX,FedEx Corporation,Services,,0.315,0.801,0.551,0.577,0.585,0.815,0.54670,70,1.39,Moderate
+FE,FirstEnergy Corp.,Utilities,,0.206,0.291,0.837,0.962,0.93,0.343,0.48355,109,0.23,Conservative
+FFIV,F5 Networks Inc.,Technology,,0.198,0.478,0.924,0.823,0,0.109,0.55415,67,1.01,Moderate
+FIS,Fidelity National Information Services Inc.,Technology,,0.561,0.509,0.281,0.204,0.628,0.644,0.28905,228,0.9,Moderate
+FISV,Fiserv Inc.,Services,,0.702,0.652,0.751,0.845,0.843,0.611,0.56730,62,0.83,Moderate
+FITB,Fifth Third Bancorp,Financial,,0.283,0.123,0.14,0.293,0.571,0.486,0.17295,294,1.35,Moderate
+FL,Foot Locker Inc.,Consumer Goods,,0.033,0.601,0.9,0.64,0.132,0.025,0.49700,100,0.68,Conservative
+FLIR,FLIR Systems Inc.,Technology,,0.722,0.591,0.682,0.404,0.21,0.071,0.38290,163,0.6,Conservative
+FLR,Fluor Corporation,Industrial Goods,,0.547,0.597,0.176,0.117,0.345,0.073,0.17275,292,1.43,Moderate
+FLS,Flowserve Corporation,Industrial Goods,,0.601,0.712,0.23,0.16,0.595,0.043,0.18900,284,1.55,Aggressive
+FMC,FMC Corporation,Basic Materials,,0.492,0.952,0.099,0.099,0.571,0.265,0.23580,260,1.62,Aggressive
+FOSL,Fossil Group Inc.,Consumer Goods,,0.38,0.775,0.916,0.847,0.642,0.007,0.53295,74,0.82,Moderate
+FOX,Twenty0First Century Fox Inc.,Services,,0.093,0.174,0,0,0,0,0.03480,311,0,Conservative
+FOXA,Twenty0First Century Fox Inc.,Services,,0.101,0.359,0.537,0.613,0.728,0.761,0.43870,127,1.38,Moderate
+FRT,Federal Realty Investment Trust,Financial,,0.924,0.464,0.426,0.428,0.801,0.144,0.25500,245,0.35,Conservative
+FSLR,First Solar Inc.,Technology,,0.946,0.926,0,0,0.138,0.045,0.18040,285,1.97,Aggressive
+FTI,TechnipFMC plc,Basic Materials,,0.674,0,0,0,0.21,0.315,0.04200,307,0,Conservative
+FTR,Frontier Communications Corporation,Technology,,0,0.884,0.388,0.744,0.954,0.009,0.36620,167,0.62,Conservative
+FTV,Fortive Corporation,Technology,,0.755,0.003,0,0,0.664,0.579,0.05000,305,0,Conservative
+GD,General Dynamics Corporation,Industrial Goods,,0.573,0.246,0.74,0.769,0.291,0.819,0.56115,64,0.74,Conservative
+GE,General Electric Company,Industrial Goods,,0.394,0.992,0,0,0.821,0.95,0.30630,204,1.15,Moderate
+GGP,GGP Inc.,Financial,,0.898,0.263,0.478,0.448,0.793,0.428,0.29040,219,0.8,Moderate
+GILD,Gilead Sciences Inc.,Healthcare,,0.081,0.454,0.98,0.94,0,0.902,0.75120,4,1.16,Moderate
+GIS,General Mills Inc.,Consumer Goods,,0.375,0.051,0.67,0.875,0.894,0.632,0.43345,127,0.63,Conservative
+GLW,Corning Incorporated,Technology,,0.444,0.95,0.712,0.503,0.228,0.625,0.59595,44,1.33,Moderate
+GM,General Motors Company,Consumer Goods,,0.029,0.097,0.184,0.212,0.873,0.827,0.19650,271,1.59,Aggressive
+GOOG,Alphabet Inc.,Technology,,0.829,0.257,0,0,0,0.998,0.25100,241,0,Conservative
+GOOGL,Alphabet Inc.,Technology,,0.823,0.498,0.847,0.472,0.128,0.996,0.61575,34,0.91,Moderate
+GPC,Genuine Parts Company,Services,,0.39,0.057,0.636,0.617,0.248,0.297,0.35925,166,1.13,Moderate
+GPN,Global Payments Inc.,Services,,0.712,0.763,0,0,0.803,0.39,0.15030,281,1.14,Moderate
+GPS,The Gap Inc.,Services,,0.176,0.553,0.807,0.783,0.291,0.196,0.51820,80,0.9,Moderate
+GRMN,Garmin Ltd.,Technology,,0.654,0.39,0.89,0.599,0,0.246,0.49945,92,0.81,Moderate
+GS,The Goldman Sachs Group Inc.,Financial,,0.148,0.626,0.126,0.355,0.978,0.892,0.32605,182,1.48,Moderate
+GT,The Goodyear Tire & Rubber Company,Consumer Goods,,0.027,0.972,0.529,0.644,0.736,0.105,0.43505,122,1.52,Aggressive
+GWW,W.W. Grainger Inc.,Services,,0.515,0.41,0.712,0.759,0.736,0.23,0.42215,128,0.76,Moderate
+HAL,Halliburton Company,Basic Materials,,0.619,0.996,0.871,0.851,0.722,0.7,0.69750,11,1.08,Moderate
+HAS,Hasbro Inc.,Consumer Goods,,0.454,0.519,0.843,0.809,0.609,0.214,0.49870,91,0.88,Moderate
+HBAN,Huntington Bancshares Incorporated,Financial,,0.202,0.384,0.099,0.218,0.571,0.359,0.17075,268,1.35,Moderate
+HBI,Hanesbrands Inc.,Consumer Goods,,0.059,0.619,0.69,0.916,0.934,0.089,0.44970,111,0.75,Conservative
+HCA,HCA Healthcare Inc.,Healthcare,,0.073,0.702,0,0,0,0.621,0.26460,223,0.52,Conservative
+HCN,Welltower Inc.,Financial,,0.91,0.494,0.396,0.263,0.527,0.557,0.32225,181,0.24,Conservative
+HCP,HCP Inc.,Financial,,0.914,0.924,0.404,0.343,0.736,0.277,0.35335,164,0.36,Conservative
+HD,The Home Depot Inc.,Services,,0.599,0.466,0.96,0.988,0.976,0.954,0.67340,13,1.09,Moderate
+HES,Hess Corporation,Basic Materials,,0,0.871,0.968,0.867,0.341,0.327,0.66425,16,1.79,Aggressive
+HIG,The Hartford Financial Services Group Inc.,Financial,,0.148,0.69,0.059,0.109,0.224,0.48,0.25360,223,0.99,Moderate
+HLT,Hilton Worldwide Holdings Inc.,Services,,0.89,0.821,0.087,0.109,0.944,0.547,0.22820,237,1.3,Moderate
+HOG,Harley0Davidson Inc.,Consumer Goods,,0.188,0.142,0.563,0.815,0.926,0.123,0.30490,187,0.95,Moderate
+HOLX,Hologic Inc.,Healthcare,,0.531,0.92,0.765,0.801,0.69,0.216,0.54970,60,0.94,Moderate
+HON,Honeywell International Inc.,Industrial Goods,,0.537,0.077,0.746,0.73,0.519,0.916,0.51570,76,0.97,Moderate
+HP,Helmerich & Payne Inc.,Basic Materials,,0,0.896,0.291,0.13,0,0.055,0.29545,196,1.25,Moderate
+HPE,Hewlett Packard Enterprise Company,Technology,,0.125,0.644,0.059,0.063,0.388,0.507,0.22190,235,0,Conservative
+HPQ,HP Inc.,Technology,,0.156,0.543,0.69,0.928,0,0.688,0.65070,18,1.85,Aggressive
+HRB,H&R Block Inc.,Services,,0.138,0.603,0.93,0.974,0,0.039,0.60440,33,0.58,Conservative
+HRL,Hormel Foods Corporation,Consumer Goods,,0.557,0.595,0.878,0.591,0,0.4,0.56625,54,0.58,Conservative
+HRS,Harris Corporation,Technology,,0.623,0.136,0.462,0.571,0.757,0.41,0.29175,194,1.1,Moderate
+HSIC,Henry Schein Inc.,Services,,0.575,0.194,0.694,0.605,0.337,0.299,0.38965,138,1.04,Moderate
+HST,Host Hotels & Resorts Inc.,Financial,,0.88,0.676,0,0,0.382,0.341,0.16520,251,1.31,Moderate
+HSY,The Hershey Company,Consumer Goods,,0.625,0.706,0.815,0.956,0.92,0.523,0.59655,37,0.36,Conservative
+HUM,Humana Inc.,Healthcare,,0.652,0.724,0.563,0.547,0.325,0.706,0.53100,63,0.89,Moderate
+IBM,International Business Machines Corporation,Technology,,0.097,0.309,0.777,0.942,0.89,0.928,0.58815,43,0.93,Moderate
+ICE,Intercontinental Exchange Inc.,Financial,,0.585,0.107,0.234,0.333,0.267,0.722,0.28085,196,0.73,Conservative
+IDXX,IDEXX Laboratories Inc.,Healthcare,,0.932,0.448,0.93,1,0,0.325,0.63710,21,0.46,Conservative
+IFF,International Flavors & Fragrances Inc.,Basic Materials,,0.763,0.055,0.751,0.702,0.69,0.246,0.35445,151,1.2,Moderate
+ILMN,Illumina Inc.,Healthcare,,0.938,0.005,0.928,0.797,0.285,0.646,0.53295,59,0.74,Conservative
+INCY,Incyte Corporation,Healthcare,,0.998,0.964,0.761,0.666,0,0.513,0.65215,17,0.8,Moderate
+INFO,IHS Markit Ltd.,Services,,0.569,0.686,0.315,0.152,0.359,0.424,0.30285,176,0.83,Moderate
+INTC,Intel Corporation,Technology,,0.287,0.281,0.837,0.621,0.311,0.96,0.58160,44,1.06,Moderate
+INTU,Intuit Inc.,Technology,,0.861,0.507,0.984,0.964,0.257,0.718,0.70630,6,1.17,Moderate
+IP,International Paper Company,Consumer Goods,,0.224,0.095,0.246,0.563,0.884,0.543,0.24145,209,1.47,Moderate
+IPG,The Interpublic Group of Companies Inc.,Services,,0.158,0.664,0.462,0.779,0.65,0.101,0.39825,125,1.47,Moderate
+IR,Ingersoll0Rand Plc,Industrial Goods,,0.424,0.892,0.537,0.513,0.396,0.509,0.50310,72,1.39,Moderate
+IRM,Iron Mountain Incorporated,Technology,,0.884,0.623,0.14,0.15,0.926,0.194,0.14330,241,1.05,Moderate
+ISRG,Intuitive Surgical Inc.,Healthcare,,0.926,0.47,0.924,0.579,0,0.744,0.61855,26,0.46,Conservative
+ITW,Illinois Tool Works Inc.,Industrial Goods,,0.694,0.313,0.876,0.896,0.809,0.801,0.58490,41,1.17,Moderate
+IVZ,Invesco Ltd.,Financial,,0.184,0.287,0.355,0.394,0.5,0.351,0.26485,194,1.81,Aggressive
+JBHT,J.B. Hunt Transport Services Inc.,Services,,0.779,0.085,0.831,0.807,0.438,0.234,0.42950,101,1.06,Moderate
+JCI,Johnson Controls International plc,Consumer Goods,,0.248,0.94,0,0,0.462,0.712,0.28420,182,0.86,Moderate
+JEC,Jacobs Engineering Group Inc.,Services,,0.448,0.563,0.341,0.158,0.14,0.087,0.24075,202,1.51,Aggressive
+JNJ,Johnson & Johnson,Healthcare,,0.503,0.253,0.827,0.698,0.337,0.986,0.59535,33,0.81,Moderate
+JNPR,Juniper Networks Inc.,Technology,,0.13,0.101,0.579,0.41,0,0.146,0.29665,174,1.07,Moderate
+JPM,JPMorgan Chase & Co.,Financial,,0.226,0.126,0.166,0.424,0.724,0.984,0.29710,173,1.21,Moderate
+JWN,Nordstrom Inc.,Services,,0.194,0.66,0.438,0.894,0.922,0.075,0.38780,124,0.86,Moderate
+K,Kellogg Company,Consumer Goods,,0.301,0.406,0.492,0.873,0.952,0.496,0.42645,103,0.5,Conservative
+KEY,KeyCorp,Financial,,0.164,0.537,0.087,0.182,0.595,0.478,0.21075,212,1.09,Moderate
+KHC,The Kraft Heinz Company,Consumer Goods,,0.607,0.033,0.341,0.19,0.367,0.896,0.28185,177,0,Conservative
+KIM,Kimco Realty Corporation,Financial,,0.888,0.809,0,0,0.664,0.117,0.11880,232,0.66,Conservative
+KLAC,KLA0Tencor Corporation,Technology,,0.279,0.609,0.942,0.966,0.875,0.41,0.59330,34,1.68,Aggressive
+KMB,Kimberly0Clark Corporation,Consumer Goods,,0.436,0.898,0.892,0,0.998,0.726,0.44800,92,0.77,Moderate
+KMI,Kinder Morgan Inc.,Basic Materials,,0.815,0.91,0.192,0.119,0.674,0.728,0.33795,142,0.63,Conservative
+KMX,CarMax Inc.,Services,,0.533,0.16,0.404,0.66,0.936,0.331,0.27060,180,1.52,Aggressive
+KO,The Coca0Cola Company,Consumer Goods,,0.748,0.329,0.492,0.617,0.876,0.956,0.44665,92,0.71,Conservative
+KORS,Michael Kors Holdings Limited,Consumer Goods,,0.19,0.535,0.976,0.817,0.146,0.091,0.55885,45,0.04,Conservative
+KR,The Kroger Co.,Services,,0.109,0.029,0.404,0.712,0.878,0.46,0.28900,168,0.82,Moderate
+KSS,Kohl's Corporation,Services,,0.121,0.369,0.478,0.442,0.585,0.095,0.26430,180,1.25,Moderate
+KSU,Kansas City Southern,Services,,0.496,0.015,0.551,0.434,0.43,0.206,0.24745,184,0.86,Moderate
+L,Loews Corporation,Financial,,0.376,0.93,0.192,0.182,0.396,0.416,0.32310,148,0.74,Conservative
+LB,L Brands Inc.,Services,,0.279,0.259,0.859,0.978,0,0.301,0.57125,42,0.69,Conservative
+LEG,Leggett & Platt Incorporated,Consumer Goods,,0.426,0.436,0.857,0.839,0.66,0.065,0.45820,86,1.05,Moderate
+LEN,Lennar Corporation,Industrial Goods,,0.115,0.341,0.353,0.224,0.585,0.273,0.20855,200,1.3,Moderate
+LH,Laboratory Corporation of America Holdings,Healthcare,,0.309,0.767,0.496,0.448,0.65,0.386,0.40160,108,0.88,Moderate
+LKQ,LKQ Corporation,Consumer Goods,,0.5,0.15,0.537,0.454,0.5,0.238,0.27535,169,0.96,Moderate
+LLL,L3 Technologies Inc.,Industrial Goods,,0.632,0.902,0.446,0.394,0,0.345,0.45940,84,1.17,Moderate
+LLY,Eli Lilly and Company,Healthcare,,0.511,0.392,0.513,0.498,0.559,0.886,0.45245,86,0.34,Conservative
+LM,Legg Mason Inc.,Financial,,0.152,1,0,0,0,0.021,0.20420,196,2.28,Aggressive
+LMT,Lockheed Martin Corporation,Industrial Goods,,0.746,0.549,0.664,0.992,0,0.875,0.69880,8,0.57,Conservative
+LNC,Lincoln National Corporation,Financial,,0.069,0.307,0.087,0.301,0.238,0.408,0.21620,188,2.03,Aggressive
+LNT,Alliant Energy Corporation,Utilities,,0.638,0.103,0.315,0.301,0.708,0.172,0.13820,209,0.45,Conservative
+LOW,Lowe's Companies Inc.,Services,,0.331,0.573,0.708,0.912,0.906,0.839,0.59680,31,1.13,Moderate
+LRCX,Lam Research Corporation,Technology,,0.251,0.829,0.93,0.791,0.251,0.66,0.70295,6,1.64,Aggressive
+LUK,Leucadia National Corporation,Financial,,0.434,0.742,0.184,0.178,0.855,0.14,0.18140,198,1.3,Moderate
+LUV,Southwest Airlines Co.,Services,,0.154,0.214,0.732,0.73,0.269,0.654,0.51220,59,1.33,Moderate
+LVLT,Level 3 Communications Inc.,Technology,,0.882,0.839,0.281,0.174,0.615,0.47,0.31405,142,1.15,Moderate
+LYB,LyondellBasell Industries N.V.,Basic Materials,,0.113,0.172,0.908,0.932,0.742,0.742,0.56860,39,1.07,Moderate
+M,Macy's Inc.,Services,,0.025,0.704,0.355,0.529,0.775,0.057,0.29570,154,0.91,Moderate
+MA,Mastercard Incorporated,Financial,,0.869,0.251,0.988,0.96,0.585,0.934,0.66550,12,1.21,Moderate
+MAC,The Macerich Company,Financial,,0.962,0.458,0.192,0.119,0.734,0.105,0.11695,203,0.81,Moderate
+MAR,Marriott International Inc.,Services,,0.821,0.412,0.426,0.63,0.811,0.759,0.41710,91,1.34,Moderate
+MAS,Masco Corporation,Industrial Goods,,0.462,0.684,0.791,0.996,0,0.263,0.63615,16,1.55,Aggressive
+MAT,Mattel Inc.,Consumer Goods,,0.365,0.452,0.765,0.785,0.847,0.035,0.40020,99,0.89,Moderate
+MCD,McDonald's Corporation,Services,,0.775,0.38,0.898,0.994,0,0.924,0.73380,4,0.66,Conservative
+MCHP,Microchip Technology Incorporated,Technology,,0.408,0.728,0.551,0.498,0.565,0.49,0.44935,78,1.02,Moderate
+MCK,McKesson Corporation,Services,,0.091,0.906,0.712,0.914,0.454,0.642,0.67070,10,1.22,Moderate
+MCO,Moody's Corporation,Services,,0.738,0.807,0.722,0.928,0,0.623,0.69850,6,1.36,Moderate
+MDLZ,Mondelez International Inc.,Consumer Goods,,0.478,0.831,0.305,0.204,0.468,0.831,0.41285,89,1,Moderate
+MDT,Medtronic plc,Healthcare,,0.337,0.446,0.404,0.251,0.438,0.912,0.39155,97,1,Moderate
+MET,MetLife Inc.,Financial,,0.13,0.861,0,0.057,0.238,0.809,0.32445,127,1.51,Aggressive
+MGM,MGM Resorts International,Services,,0.617,0.974,0.365,0.507,0.853,0.432,0.41390,88,1.44,Moderate
+MHK,Mohawk Industries Inc.,Consumer Goods,,0.466,0.714,0.732,0.523,0.311,0.448,0.51505,51,1.34,Moderate
+MKC,McCormick & Company Incorporated,Consumer Goods,,0.646,0.474,0.664,0.712,0.867,0.271,0.40630,90,0.51,Conservative
+MLM,Martin Marietta Materials Inc.,Industrial Goods,,0.692,0.748,0.551,0.357,0.299,0.311,0.40890,89,1.12,Moderate
+MMC,Marsh & McLennan Companies Inc.,Financial,,0.595,0.357,0.777,0.763,0.527,0.738,0.55130,35,1,Moderate
+MMM,3M Company,Industrial Goods,,0.777,0.218,0.904,0.892,0.623,0.926,0.61550,19,1.07,Moderate
+MNST,Monster Beverage Corporation,Consumer Goods,,0.906,0.529,0.938,0.656,0,0.65,0.63430,14,0.9,Moderate
+MO,Altria Group Inc.,Consumer Goods,,0.505,0.934,1,0.982,0,0.92,0.86630,1,0.64,Conservative
+MON,Monsanto Company,Basic Materials,,0.565,0.815,0.746,0.851,0.787,0.795,0.64255,9,1.04,Moderate
+MOS,The Mosaic Company,Basic Materials,,0.728,0.813,0.126,0.087,0.281,0.119,0.21155,166,1.25,Moderate
+MPC,Marathon Petroleum Corporation,Basic Materials,,0.333,0.761,0.291,0.283,0.636,0.648,0.36170,99,1.58,Aggressive
+MRK,Merck & Co. Inc.,Healthcare,,0.242,0.317,0.503,0.424,0.412,0.942,0.44235,71,0.83,Moderate
+MRO,Marathon Oil Corporation,Basic Materials,,0,0.482,0.99,0.884,0.394,0.305,0.58650,25,2.38,Aggressive
+MS,Morgan Stanley,Financial,,0.172,0.013,0.113,0.283,0.962,0.878,0.18100,170,1.66,Aggressive
+MSFT,Microsoft Corporation,Technology,,0.726,0.589,0.765,0.781,0.609,0.994,0.64220,9,0.99,Moderate
+MSI,Motorola Solutions Inc.,Technology,,0.404,0.059,0.674,0.948,0,0.369,0.49110,52,0.32,Conservative
+MTB,M&T Bank Corporation,Financial,,0.428,0.228,0,0,0.388,0.587,0.12420,176,0.84,Moderate
+MTD,Mettler0Toledo International Inc.,Healthcare,,0.896,0.343,0.964,0.972,0.863,0.396,0.54550,29,1.11,Moderate
+MU,Micron Technology Inc.,Technology,,0.017,0.734,0.92,0.827,0.396,0.775,0.69895,4,1.75,Aggressive
+MYL,Mylan N.V.,Healthcare,,0.023,0.698,0.23,0.16,0.708,0.454,0.25710,140,1.38,Moderate
+NAVI,Navient Corporation,Financial,,0.037,0.505,0.075,0.529,1,0.017,0.15540,169,2.39,Aggressive
+NBL,Noble Energy Inc.,Basic Materials,,1,0.773,0.722,0.611,0.48,0.305,0.50085,48,1.18,Moderate
+NDAQ,Nasdaq Inc.,Financial,,0.39,0.825,0.14,0.101,0.422,0.257,0.23445,148,0.78,Moderate
+NEE,NextEra Energy Inc.,Utilities,,0.666,0.111,0.426,0.535,0.742,0.847,0.35765,96,0.31,Conservative
+NEM,Newmont Mining Corporation,Basic Materials,,0.853,0.5,0.073,0.075,0.257,0.452,0.20170,156,0.12,Conservative
+NFLX,Netflix Inc.,Services,,0.98,0.722,0.315,0.482,0.779,0.869,0.43955,65,1.4,Moderate
+NFX,Newfield Exploration Company,Basic Materials,,0.208,0.799,0.623,0.785,0.851,0.059,0.43850,66,1.47,Moderate
+NI,NiSource Inc.,Utilities,,0.686,0.833,0.192,0.212,0.849,0.13,0.20870,153,0.32,Conservative
+NKE,NIKE Inc.,Consumer Goods,,0.656,0.416,0.936,0.819,0.234,0.886,0.67575,5,0.6,Conservative
+NLSN,Nielsen Holdings plc,Technology,,0.216,0.321,0.331,0.404,0.843,0.315,0.22665,145,0.97,Moderate
+NOC,Northrop Grumman Corporation,Industrial Goods,,0.72,0.438,0.74,0.876,0.615,0.793,0.58870,21,0.71,Conservative
+NOV,National Oilwell Varco Inc.,Basic Materials,,0.972,0.948,0.821,0.553,0.186,0.291,0.57270,23,1,Moderate
+NRG,NRG Energy Inc.,Utilities,,0.371,0.859,0.446,0.95,0.996,0.126,0.44640,61,1.28,Moderate
+NSC,Norfolk Southern Corporation,Services,,0.529,0.297,0.462,0.458,0.505,0.708,0.38050,81,1.36,Moderate
+NTAP,NetApp Inc.,Technology,,0.212,0.904,0.573,0.644,0.553,0.255,0.48075,51,1.15,Moderate
+NTRS,Northern Trust Corporation,Financial,,0.472,0.228,0.113,0.371,0.988,0.505,0.16880,152,0.96,Moderate
+NUE,Nucor Corporation,Basic Materials,,0.216,0.998,0.623,0.454,0.359,0.442,0.52135,37,1.62,Aggressive
+NVDA,NVIDIA Corporation,Technology,,0.948,0.908,0.994,0.871,0.251,0.918,0.80635,2,1.18,Moderate
+NWL,Newell Brands Inc.,Consumer Goods,,0.063,0.611,0.373,0.333,0.595,0.367,0.31260,103,1.2,Moderate
+NWS,News Corporation,Services,,0,0.007,0,0,0,0,0.00140,159,0,Conservative
+NWSA,News Corporation,Services,,0.815,0.988,0.478,0.194,0.132,0.121,0.37660,79,2,Aggressive
+O,Realty Income Corporation,Financial,,0.936,0.186,0.253,0.142,0.511,0.357,0.15625,148,0.3,Conservative
+OI,Owens0Illinois Inc.,Consumer Goods,,0.045,0.738,0.269,0.886,0.972,0.027,0.34455,90,1.53,Aggressive
+OKE,ONEOK Inc.,Utilities,,0.807,0.696,0.24,0.688,0.817,0.464,0.38230,76,1.34,Moderate
+OMC,Omnicom Group Inc.,Services,,0.16,0.244,0.503,0.92,0.841,0.384,0.39725,71,1.24,Moderate
+ORCL,Oracle Corporation,Technology,,0.361,0.19,0.664,0.579,0.601,0.966,0.48185,48,1.06,Moderate
+ORLY,O'Reilly Automotive Inc.,Services,,0.386,0.402,0.886,0.954,0.912,0.45,0.53920,25,0.8,Moderate
+OXY,Occidental Petroleum Corporation,Basic Materials,,0.94,0.873,0.067,0.067,0.325,0.789,0.33340,88,0.66,Conservative
+PAYX,Paychex Inc.,Services,,0.801,0.267,0.849,0.886,0.128,0.531,0.58055,21,0.97,Moderate
+PBCT,People's United Financial Inc.,Financial,,0.396,0.234,0.099,0.16,0.164,0.069,0.10895,145,0.83,Moderate
+PCAR,PACCAR Inc,Consumer Goods,,0.345,0.793,0.605,0.613,0.7,0.573,0.50770,36,1.24,Moderate
+PCG,PG&E Corporation,Utilities,,0.317,0.757,0.323,0.371,0.634,0.626,0.38670,69,0.22,Conservative
+PCLN,The Priceline Group Inc.,Services,,0.698,0.335,0.809,0.68,0.468,0.898,0.57205,21,1.43,Moderate
+PDCO,Patterson Companies Inc.,Services,,0.297,0.148,0.438,0.388,0.545,0.023,0.18620,135,0.98,Moderate
+PEG,Public Service Enterprise Group Incorporated,Utilities,,0.44,0.716,0.166,0.115,0.623,0.583,0.26775,112,0.42,Conservative
+PEP,Pepsico Inc.,Consumer Goods,,0.591,0.49,0.746,0.926,0.906,0.936,0.61260,12,0.69,Conservative
+PFE,Pfizer Inc.,Healthcare,,0.204,0.196,0.462,0.466,0.48,0.968,0.41680,58,0.99,Moderate
+PFG,Principal Financial Group Inc.,Financial,,0.162,0.325,0.087,0.4,0.21,0.464,0.25855,112,1.73,Aggressive
+PG,The Procter & Gamble Company,Consumer Goods,,0.581,0.198,0.863,0.771,0.422,0.97,0.59990,15,0.67,Conservative
+PGR,The Progressive Corporation,Financial,,0.501,0.456,0.365,0.472,0.269,0.632,0.39995,61,0.91,Moderate
+PH,Parker0Hannifin Corporation,Industrial Goods,,0.509,0.523,0.636,0.626,0.686,0.559,0.46330,46,1.39,Moderate
+PHM,PulteGroup Inc.,Industrial Goods,,0.107,0.569,0.438,0.321,0.511,0.128,0.27805,102,1.17,Moderate
+PKG,Packaging Corporation of America,Consumer Goods,,0.446,0.192,0.682,0.738,0.757,0.212,0.36010,69,1.85,Aggressive
+PKI,PerkinElmer Inc.,Healthcare,,0.686,0.424,0.702,0.535,0.311,0.103,0.38355,63,0.77,Moderate
+PLD,Prologis Inc.,Financial,,0.934,0.672,0.458,0.301,0.48,0.676,0.41135,57,0.95,Moderate
+PM,Philip Morris International Inc.,Consumer Goods,,0.567,0.105,0.95,0.938,0,0.94,0.68100,3,0.96,Moderate
+PNC,The PNC Financial Services Group Inc.,Financial,,0.313,0.047,0.14,0.251,0.527,0.841,0.22265,114,0.9,Moderate
+PNR,Pentair plc,Industrial Goods,,0.486,0.339,0.551,0.434,0.224,0.283,0.34825,71,1.39,Moderate
+PNW,Pinnacle West Capital Corporation,Utilities,,0.605,0.043,0.331,0.343,0.636,0.168,0.14710,124,0.37,Conservative
+PPG,PPG Industries Inc.,Basic Materials,,0.47,0.755,0.805,0.827,0.519,0.638,0.63470,6,1.59,Aggressive
+PPL,PPL Corporation,Utilities,,0.363,0.488,0.404,0.527,0.839,0.575,0.36145,64,0.53,Conservative
+PRGO,Perrigo Company plc,Healthcare,,0.382,0.236,0.978,0.898,0.396,0.244,0.52540,26,0.7,Conservative
+PRU,Prudential Financial Inc.,Financial,,0.071,0.503,0.075,0.244,0.311,0.771,0.30345,84,1.56,Aggressive
+PSA,Public Storage,Financial,,0.851,0.382,0.855,0.722,0.168,0.688,0.59145,14,0.46,Conservative
+PSX,Phillips 66,Basic Materials,,0.359,0.783,0.355,0.232,0.311,0.773,0.42685,49,1.2,Moderate
+PVH,PVH Corp.,Consumer Goods,,0.299,0.009,0.38,0.265,0.412,0.17,0.15585,117,0.58,Conservative
+PWR,Quanta Services Inc.,Industrial Goods,,0.295,0.886,0.462,0.248,0.16,0.051,0.34890,65,0.87,Moderate
+PX,Praxair Inc.,Basic Materials,,0.751,0.075,0.698,0.773,0.781,0.74,0.45265,45,1,Moderate
+PXD,Pioneer Natural Resources Company,Basic Materials,,0.958,0.857,0.14,0.089,0.202,0.585,0.32545,70,0.96,Moderate
+PYPL,PayPal Holdings Inc.,Financial,,0.892,0.361,0.426,0.343,0,0.873,0.43905,45,0,Conservative
+Q,Quintiles IMS Holdings Inc.,Healthcare,,0.628,0.819,0.075,0.083,0.714,0.535,0.23890,99,0.63,Conservative
+QCOM,QUALCOMM Incorporated,Technology,,0.507,0.496,0.617,0.418,0.454,0.882,0.48895,35,1.28,Moderate
+QRVO,Qorvo Inc.,Technology,,0.119,0.632,0.087,0.075,0.172,0.152,0.18010,110,1.01,Moderate
+RCL,Royal Caribbean Cruises Ltd.,Services,,0.285,0.878,0.617,0.541,0.511,0.593,0.53260,20,1.08,Moderate
+RE,Everest Re Group Ltd.,Financial,,0.128,0.212,0.509,0.478,0.14,0.148,0.30475,75,0.66,Conservative
+REG,Regency Centers Corporation,Financial,,0.93,0.168,0.14,0.091,0.367,0.202,0.09505,112,0.56,Conservative
+REGN,Regeneron Pharmaceuticals Inc.,Healthcare,,0.805,0.654,0.912,0.708,0.156,0.755,0.67120,3,1.58,Aggressive
+RF,Regions Financial Corporation,Financial,,0.259,0.398,0.126,0.212,0.18,0.446,0.23530,95,1.3,Moderate
+RHI,Robert Half International Inc.,Services,,0.517,0.019,0.956,0.805,0,0.077,0.45945,40,1.28,Moderate
+RHT,Red Hat Inc.,Technology,,0.916,0.571,0.611,0.7,0.373,0.492,0.50305,29,1.18,Moderate
+RL,Ralph Lauren Corporation,Consumer Goods,,0.414,0.9,0.067,0.067,0.202,0.093,0.21190,99,0.64,Conservative
+RMD,ResMed Inc.,Healthcare,,0.785,0.093,0.777,0.571,0.378,0.24,0.36580,53,0.77,Moderate
+ROK,Rockwell Automation Inc.,Industrial Goods,,0.847,0.232,0.821,0.863,0.545,0.581,0.52910,20,1.21,Moderate
+ROP,Roper Technologies Inc.,Industrial Goods,,0.819,0.138,0.496,0.38,0.585,0.603,0.30870,67,1.05,Moderate
+ROST,Ross Stores Inc.,Services,,0.521,0.331,0.98,0.88,0.16,0.563,0.62780,6,1.12,Moderate
+RRC,Range Resources Corporation,Basic Materials,,0.839,0.638,0.253,0.148,0.462,0.033,0.18825,97,0.94,Moderate
+RSG,Republic Services Inc.,Industrial Goods,,0.781,0.44,0.341,0.271,0.644,0.5,0.27660,77,0.64,Conservative
+RTN,Raytheon Company,Industrial Goods,,0.714,0.293,0.636,0.63,0,0.799,0.53490,17,0.58,Conservative
+SBAC,SBA Communications Corporation,Technology,,0.982,0.914,0.075,0.093,0,0.44,0.31280,63,0.74,Conservative
+SBUX,Starbucks Corporation,Services,,0.767,0.115,0.97,0.91,0.438,0.865,0.62220,7,0.71,Conservative
+SCG,SCANA Corporation,Utilities,,0.136,0.539,0.341,0.327,0.748,0.061,0.21220,90,0.27,Conservative
+SCHW,The Charles Schwab Corporation,Financial,,0.734,0.559,0.126,0.448,0.986,0.819,0.32050,60,1.73,Aggressive
+SEE,Sealed Air Corporation,Consumer Goods,,0.48,0.73,0.478,0.952,0.99,0.125,0.42950,36,1.21,Moderate
+SHW,The Sherwin0Williams Company,Basic Materials,,0.706,0.182,0.678,0.9,0.94,0.704,0.47770,30,1.21,Moderate
+SIG,Signet Jewelers Limited,Services,,0.055,0.462,0.63,0.607,0.49,0.029,0.35845,47,1.04,Moderate
+SJM,The J. M. Smucker Company,Consumer Goods,,0.192,0.351,0.365,0.232,0.48,0.234,0.21825,83,0.62,Conservative
+SLB,Schlumberger Limited,Basic Materials,,0.871,0.936,0.099,0.083,0.299,0.871,0.37700,45,1.05,Moderate
+SLG,SL Green Realty Corp.,Financial,,0.996,0.285,0.184,0.113,0.615,0.15,0.09975,89,1.2,Moderate
+SNA,Snap0on Incorporated,Industrial Goods,,0.289,0.373,0.964,0.841,0.285,0.136,0.52455,19,1.12,Moderate
+SNI,Scripps Networks Interactive Inc.,Services,,0.293,0.303,0.777,0.785,0,0.186,0.48830,27,1.49,Moderate
+SNPS,Synopsys Inc.,Technology,,0.783,0.478,0.563,0.313,0.156,0.293,0.35760,45,0.99,Moderate
+SO,The Southern Company,Utilities,,0.458,0.113,0.087,0.101,0.869,0.791,0.14090,84,0.17,Conservative
+SPG,Simon Property Group Inc.,Financial,,0.71,0.079,0.513,0.878,0.966,0.783,0.42355,34,0.62,Conservative
+SPGI,S&P Global Inc.,Services,,0.708,0.865,0.97,0.99,0,0.734,0.80980,1,1.53,Aggressive
+SRCL,Stericycle Inc.,Industrial Goods,,0.269,0.581,0.067,0.073,0.65,0.053,0.09680,83,0.19,Conservative
+SRE,Sempra Energy,Utilities,,0.676,0.063,0.373,0.434,0.755,0.64,0.26685,67,0.63,Conservative
+STI,SunTrust Banks Inc.,Financial,,0.246,0.031,0.126,0.248,0.325,0.63,0.19320,79,1.3,Moderate
+STT,State Street Corporation,Financial,,0.226,0.311,0.126,0.369,0.579,0.682,0.26445,67,1.38,Moderate
+STX,Seagate Technology plc,Technology,,0.049,0.946,0.694,0.902,0,0.198,0.62780,5,1.68,Aggressive
+STZ,Constellation Brands Inc.,Consumer Goods,,0.753,0.7,0.755,0.716,0.69,0.736,0.58595,10,0.09,Conservative
+SWK,Stanley Black & Decker Inc.,Industrial Goods,,0.593,0.279,0.589,0.559,0.373,0.567,0.41890,31,1.03,Moderate
+SWKS,Skyworks Solutions Inc.,Technology,,0.355,0.555,0.992,0.746,0,0.482,0.64190,3,0.88,Moderate
+SWN,Southwestern Energy Company,Basic Materials,,0.031,0.708,0.42,0.696,0.902,0.015,0.33340,43,1.2,Moderate
+SYF,Synchrony Financial,Financial,,0.077,0.061,0.246,0.49,0.757,0.597,0.23990,67,0,Conservative
+SYK,Stryker Corporation,Healthcare,,0.7,0.388,0.698,0.559,0.468,0.803,0.50565,18,0.79,Moderate
+SYMC,Symantec Corporation,Technology,,0.311,0.797,0.242,0.327,0.827,0.438,0.30655,48,1.17,Moderate
+SYY,Sysco Corporation,Services,,0.553,0.565,0.579,0.89,0.918,0.636,0.51565,16,0.52,Conservative
+T,AT&T Inc.,Technology,,0.126,0.406,0.331,0.327,0.702,0.964,0.36830,35,0.43,Conservative
+TAP,Molson Coors Brewing Company,Consumer Goods,,0.418,0.982,0.678,0.599,0.628,0.43,0.53885,11,0.84,Moderate
+TDG,TransDigm Group Incorporated,Industrial Goods,,0.662,0.605,0.496,0.831,0,0.375,0.52775,12,0.48,Conservative
+TEL,TE Connectivity Ltd.,Technology,,0.527,0.823,0.755,0.599,0.309,0.652,0.60260,6,1.05,Moderate
+TGT,Target Corporation,Services,,0.238,0.4,0.654,0.734,0.676,0.658,0.49100,17,0.63,Conservative
+TIF,Tiffany & Co.,Services,,0.678,0.023,0.732,0.498,0.257,0.232,0.33280,36,1.97,Aggressive
+TJX,The TJX Companies Inc.,Services,,0.384,0.109,0.942,0.918,0.341,0.753,0.60330,5,0.72,Conservative
+TMK,Torchmark Corporation,Financial,,0.422,0.202,0.269,0.375,0.21,0.166,0.21360,59,1,Moderate
+TMO,Thermo Fisher Scientific Inc.,Healthcare,,0.523,0.045,0.446,0.313,0.48,0.861,0.32295,36,1.09,Moderate
+TRIP,TripAdvisor Inc.,Technology,,0.9,0.658,0.396,0.19,0.172,0.049,0.27070,50,2.35,Aggressive
+TROW,T. Rowe Price Group Inc.,Financial,,0.396,0.091,0.986,0.775,0,0.537,0.56585,7,1.31,Moderate
+TRV,The Travelers Companies Inc.,Financial,,0.263,0.166,0.253,0.333,0.218,0.702,0.29830,41,1.27,Moderate
+TSCO,Tractor Supply Company,Services,,0.412,0.255,0.912,0.797,0.257,0.099,0.47235,16,1.29,Moderate
+TSN,Tyson Foods Inc.,Consumer Goods,,0.184,0.74,0.654,0.567,0.67,0.593,0.50485,12,0.29,Conservative
+TSS,Total System Services Inc.,Financial,,0.595,0.305,0.595,0.585,0.724,0.313,0.34620,29,1.11,Moderate
+TWX,Time Warner Inc.,Services,,0.275,0.216,0.682,0.625,0.545,0.849,0.48525,14,1,Moderate
+TXN,Texas Instruments Incorporated,Technology,,0.684,0.533,0.996,0.859,0.238,0.904,0.72735,1,1.26,Moderate
+TXT,Textron Inc.,Industrial Goods,,0.551,0.511,0.537,0.529,0.468,0.347,0.39130,22,1.59,Aggressive
+UA,Under Armour Inc.,Consumer Goods,,0.744,0.634,0,0,0,0,0.12680,52,0,Conservative
+UAA,Under Armour Inc.,Consumer Goods,,0.845,0.753,0.537,0.361,0.325,0.037,0.35000,25,0.1,Conservative
+UAL,United Continental Holdings Inc.,Services,,0.061,0.613,0.446,0.674,0.793,0.434,0.41010,19,1.03,Moderate
+UDR,UDR Inc.,Financial,,0.99,0.301,0.388,0.321,0.73,0.176,0.19965,48,0.39,Conservative
+UHS,Universal Health Services Inc.,Healthcare,,0.182,0.121,0.623,0.507,0.545,0.162,0.28460,37,0.96,Moderate
+ULTA,Ulta Beauty Inc.,Services,,0.636,0.587,0.94,0.795,0,0.267,0.60455,3,0.53,Conservative
+UNH,UnitedHealth Group Incorporated,Healthcare,,0.589,0.492,0.529,0.585,0.476,0.962,0.52170,8,0.64,Conservative
+UNM,Unum Group,Financial,,0.146,0.351,0.192,0.333,0,0.251,0.25165,38,1.64,Aggressive
+UNP,Union Pacific Corporation,Services,,0.513,0.22,0.674,0.656,0.519,0.89,0.50260,9,0.87,Moderate
+UPS,United Parcel Service Inc.,Services,,0.494,0.583,0.73,0.998,0.992,0.908,0.63100,2,0.92,Moderate
+URBN,Urban Outfitters Inc.,Services,,0.353,0.065,0.74,0.442,0,0.013,0.31110,24,0.61,Conservative
+URI,United Rentals Inc.,Services,,0.142,0.123,0.446,0.819,0.932,0.261,0.29985,27,2.65,Aggressive
+USB,U.S. Bancorp,Financial,,0.301,0.069,0.176,0.442,0.565,0.88,0.28780,30,0.87,Moderate
+UTX,United Technologies Corporation,Industrial Goods,,0.484,0.646,0.529,0.579,0.601,0.906,0.52730,6,1.06,Moderate
+V,Visa Inc.,Financial,,0.759,0.418,0,0,0.438,0.974,0.23460,35,0.96,Moderate
+VAR,Varian Medical Systems Inc.,Healthcare,,0.716,0.617,0.718,0.593,0.202,0.16,0.46295,10,0.64,Conservative
+VFC,V.F. Corporation,Consumer Goods,,0.613,0.265,0.799,0.694,0.579,0.615,0.49135,7,0.79,Moderate
+VIAB,Viacom Inc.,Services,,0.013,0.547,0.573,0.803,0.859,0.164,0.40030,12,1.59,Aggressive
+VLO,Valero Energy Corporation,Basic Materials,,0.226,0.674,0,0,0.291,0.68,0.24170,31,1.17,Moderate
+VMC,Vulcan Materials Company,Industrial Goods,,0.855,0.845,0.478,0.297,0.462,0.41,0.39855,12,0.85,Moderate
+VNO,Vornado Realty Trust,Financial,,0.954,0.607,0.404,0.505,0.829,0.335,0.33275,17,1.03,Moderate
+VRSK,Verisk Analytics Inc.,Services,,0.841,0.2,0.771,0.825,0.807,0.355,0.42930,10,0.77,Moderate
+VRSN,VeriSign Inc.,Technology,,0.809,0.484,0.956,0.861,0,0.2,0.59105,3,1.04,Moderate
+VRTX,Vertex Pharmaceuticals Incorporated,Healthcare,,0.95,0.837,0.551,0.44,0.248,0.694,0.52915,4,1.66,Aggressive
+VTR,Ventas Inc.,Financial,,0.908,0.67,0.323,0.194,0.69,0.533,0.30085,17,0.13,Conservative
+VZ,Verizon Communications Inc.,Technology,,0.166,0.593,0.579,0.944,0.948,0.952,0.59495,2,0.56,Conservative
+WAT,Waters Corporation,Healthcare,,0.795,0.323,0.819,0.684,0.49,0.371,0.46555,4,0.82,Moderate
+WBA,Walgreens Boots Alliance Inc.,Services,,0.105,0.039,0.521,0.462,0.325,0.845,0.39005,7,1.22,Moderate
+WDC,Western Digital Corporation,Technology,,0.035,0.636,0.184,0.119,0.702,0.601,0.25295,19,1.18,Moderate
+WEC,WEC Energy Group Inc.,Utilities,,0.644,0.575,0.341,0.343,0.686,0.498,0.31700,11,0.14,Conservative
+WFC,Wells Fargo & Company,Financial,,0.212,0.119,0.14,0.375,0.748,0.978,0.27335,16,0.95,Moderate
+WHR,Whirlpool Corporation,Consumer Goods,,0.079,0.46,0.392,0.541,0.718,0.242,0.30185,12,1.89,Aggressive
+WLTW,Willis Towers Watson Public Limited Company,Financial,,0.396,0.694,0.192,0.142,0.285,0.501,0.29400,13,0.92,Moderate
+WM,Waste Management Inc.,Industrial Goods,,0.757,0.769,0.595,0.742,0.813,0.686,0.54395,2,0.77,Moderate
+WMB,The Williams Companies Inc.,Basic Materials,,0.886,0.577,0.166,0.228,0.904,0.541,0.23170,16,1.4,Moderate
+WMT,Wal0Mart Stores Inc.,Services,,0.575,0.128,0.573,0.541,0.408,0.976,0.45850,4,0.34,Conservative
+WRK,WestRock Company,Consumer Goods,,0.373,0.849,0.216,0.136,0.422,0.365,0.28860,11,0,Conservative
+WU,The Western Union Company,Financial,,0.095,0.811,0.234,0.626,0.96,0.134,0.30800,9,1.03,Moderate
+WY,Weyerhaeuser Company,Industrial Goods,,0.865,0.541,0.462,0.343,0.505,0.609,0.38075,5,1.43,Moderate
+WYN,Wyndham Worldwide Corporation,Services,,0.369,0.21,0.521,0.97,0.982,0.208,0.35815,5,1.35,Moderate
+WYNN,Wynn Resorts Limited,Services,,0.742,0.525,0,0,0,0.382,0.18140,12,1.74,Aggressive
+XEC,Cimarex Energy Co.,Basic Materials,,0.75,0.853,0.563,0.404,0.43,0.228,0.41495,4,1.35,Moderate
+XEL,Xcel Energy Inc.,Utilities,,0.621,0.396,0.291,0.321,0.757,0.577,0.27190,7,0.23,Conservative
+XL,XL Group Ltd,Financial,,0.087,0.777,0.14,0.154,0.218,0.18,0.24310,8,1.04,Moderate
+XLNX,Xilinx Inc.,Technology,,0.831,0.363,0.865,0.734,0.454,0.436,0.51415,2,1.08,Moderate
+XOM,Exxon Mobil Corporation,Basic Materials,,0.658,0.744,0.355,0.194,0.186,0.982,0.46385,2,0.83,Moderate
+XRAY,DENTSPLY SIRONA Inc.,Healthcare,,0.696,0.25,0.617,0.313,0.18,0.353,0.33510,3,1.28,Moderate
+XRX,Xerox Corporation,Technology,,0.043,0.545,0,0,0.628,0.095,0.06520,6,1.17,Moderate
+XYL,Xylem Inc.,Industrial Goods,,0.787,0.513,0.426,0.41,0.644,0.25,0.29720,3,1.15,Moderate
+YUM,Yum! Brands Inc.,Services,,0.799,0.444,0,0,0,0.619,0.21260,4,0.86,Moderate
+ZBH,Zimmer Biomet Holdings Inc.,Healthcare,,0.178,0.876,0.291,0.218,0.65,0.494,0.33625,2,1.18,Moderate
+ZION,Zions Bancorporation,Financial,,0.317,0.787,0.099,0.188,0.136,0.154,0.24635,2,1.48,Moderate
+ZTS,Zoetis Inc.,Healthcare,,0.825,0.918,0.827,0.924,0.9,0.662,0.66375,1,1.02,Moderate
+ZTS1,Zoetis Inc.,Healthcare,.456,0.825,0.918,0.827,0.924,0.9,0.662,0.66375,1,1.02,Moderate
